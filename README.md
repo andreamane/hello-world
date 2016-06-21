@@ -1,4 +1,4 @@
 # hello-world
 progetto di prova
 
-operazioni guidate del tutorial on-line
+operazioni guidate MODIFICATE IN WIN
